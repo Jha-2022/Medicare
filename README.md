@@ -2,6 +2,8 @@
 
 A full-featured healthcare web app with three portals built with React, Vite, TypeScript, and Tailwind CSS.
 
+![App Preview](https://github.com/HardikSingh201/Menu-Scanner/blob/main/Screenshot%202026-02-06%20125609.png?raw=true/https://github.com/HardikSingh201/Menu-Scanner/blob/main/Screenshot%202026-02-06%20125643.png?raw=true)
+
 ## Portals
 
 - **Patient** — Browse doctors, book appointments, manage profile
